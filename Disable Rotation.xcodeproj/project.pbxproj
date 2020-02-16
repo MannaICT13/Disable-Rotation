@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A35AF2923F938B200A26C4B /* Disable Rotation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Disable Rotation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A35AF2923F938B200A26C4B /* Disable_Rotation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Disable_Rotation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A35AF2C23F938B200A26C4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A35AF2E23F938B200A26C4B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2A35AF3023F938B200A26C4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		2A35AF2A23F938B200A26C4B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A35AF2923F938B200A26C4B /* Disable Rotation.app */,
+				2A35AF2923F938B200A26C4B /* Disable_Rotation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "Disable Rotation";
 			productName = "Disable Rotation";
-			productReference = 2A35AF2923F938B200A26C4B /* Disable Rotation.app */;
+			productReference = 2A35AF2923F938B200A26C4B /* Disable_Rotation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ict.manna.Disable-Rotation";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Disable_Rotation;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ict.manna.Disable-Rotation";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Disable_Rotation;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
